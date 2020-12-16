@@ -3,7 +3,7 @@ import styled, { withTheme } from 'styled-components'
 
 
 let Container = styled.div`
-    width: 20%;
+    width: 100%;
 `
 
 let CardImg = styled.img`

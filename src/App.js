@@ -1,6 +1,6 @@
 import './App.css';
-import styled, { ThemeProvider } from "styled-components";
-import CollageContainer from './components/collageContainer'
+import { ThemeProvider } from "styled-components";
+import CollageContainer from './components/CollageContainer'
 
 const theme = {
   colors: [
