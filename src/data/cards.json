@@ -1,0 +1,646 @@
+[
+    {
+        "order": 0,
+        "name": "El loco",
+        "elemento": [
+            "fuego",
+            "agua",
+            "tierra",
+            "aire"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "El loco no tiene un lugar definido. Lleva el número 0.",
+            "El cero es el potencial sin límites.",
+            "El loco es el comienzo del viaje de la vida.",
+            "El sol es el comienzo del viaje.",
+            "El mundo material es el acantilado.",
+            "La inocencia con que inicia esta aventura.",
+            "Representa la inocencia con la que venimos al mundo.",
+            "durante todo el viaje, intentará volver a los territorios del espíritu",
+            "es importante empezar de nuevo",
+            "tu sabes que tienes razón, presiona e insiste",
+            "poca concentración, apatía, dispersión, procrastinación, esfuerzos mentales",
+            "un presagio positivo para tu vida amorosa",
+            "un indicador de novedad, de pureza y energía",
+            "cómo el corazon abierto de un niño",
+            "no estas liste",
+            "encontraras en ti misme una gran fuerza y confianza",
+            "debes estar presente en el momento",
+            "vas a encontrar a las personas y a los elementos que necesites",
+            "no te apresures ni encandiles con la primera idea o el primer enfoque"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 1,
+        "name": "el mago",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ]
+    },
+    {
+        "order": 2,
+        "name": "la Sacerdotiza",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 3,
+        "name": "La Emperatriz",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 4,
+        "name": "El emperador",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 5,
+        "name": "El Sumo Sacerdote",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 6,
+        "name": "Los Enamorados",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 7,
+        "name": "El Carro",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 8,
+        "name": "La Justicia",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 9,
+        "name": "El Ermitaño",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 10,
+        "name": "La Rueda de la Fortuna",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 11,
+        "name": "La Fuerza",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 12,
+        "name": "El Colgado",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 13,
+        "name": "La Muerte",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 14,
+        "name": "La Templanza",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 15,
+        "name": "El Diablo",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 16,
+        "name": "La Torre",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 17,
+        "name": "La Estrella",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 18,
+        "name": "La Luna",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 19,
+        "name": "El Sol",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 20,
+        "name": "EL Juicio",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    },
+    {
+        "order": 21,
+        "name": "EL Mundo",
+        "elemento": [
+            "aire",
+            "mercurio",
+            "invierno",
+            "aries"
+        ],
+        "keys": [
+            "paloma",
+            "abismo"
+        ],
+        "phrases": [
+            "Intelecto, uso de la lógica.",
+            "Habilidad para desarrollar las cosas.",
+            "Conexión entre los dos mundos.",
+            "Trae al mundo humano las habilidades del poder supremo.",
+            "Señala la sabiduría del mundo y la experiencia.",
+            "Se trata de utilizar de la mejor manera posible todo tu poder",
+            "Puestos al servicio de tu deseo.",
+            "Nuevos comienzos, grandes expectativas",
+            "Tenemos el poder de hacer una diferencia en nuestras vidas",
+            "Potencia, ingenio, habilidad, concentración y acción",
+            "cómo el corazon abierto de un niño",
+            "Un momento muy positivo"
+        ],
+        "selectedPhrase": ""
+    }
+]
