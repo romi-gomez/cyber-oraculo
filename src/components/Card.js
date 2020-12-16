@@ -3,7 +3,13 @@ import styled, { withTheme } from 'styled-components'
 
 
 let Container = styled.div`
-    width: 100%;
+    width: 90%;
+    margin: 0 auto;
+    transition: all ease-in-out 1s;
+
+    &:hover{
+        width: 100%;
+    }
 `
 
 let CardImg = styled.img`

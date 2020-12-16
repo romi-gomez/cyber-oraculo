@@ -8,7 +8,7 @@ const getSpread = () => {
 
     for (let i = 0; i < spread.length; i++) {
 
-        spread[i] = Math.floor((Math.random() * 22));
+        spread[i] = getRandomNumber(0, 21);
 
         deck.forEach(card => {
             if (card.order === spread[i]) {
@@ -22,13 +22,16 @@ const getSpread = () => {
 
 const getPhrase = (phrases) => {
 
-    let selectedPhrase = Math.floor((Math.random() * phrases.length));
+    let selectedPhrase = getRandomNumber(0, phrases.length);
     return (phrases[selectedPhrase])
 }
 
+const getRandomNumber = (min, max) => {
+    return Math.floor(Math.random() * (max - min)) + min;
+}
 
 getSpread()
 
 console.log(result)
 
-export default result
+export { result, getRandomNumber }
