@@ -42,7 +42,7 @@ const BackgroundContainer = styled.div`
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.3) 100%);
     z-index: 10;
 `
 const BackgroundText = styled.p`
@@ -62,7 +62,7 @@ const Background = (props) => {
         <MainContainer>
             <BackgroundContainer></BackgroundContainer>
             {result.map((card, i) => {
-                let size = getRandomNumber(100, 500)
+                let size = getRandomNumber(150, 500)
                 let top = getRandomNumber(0, 50)
                 let left = getRandomNumber(0, 50)
                 return (

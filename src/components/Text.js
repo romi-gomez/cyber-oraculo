@@ -1,7 +1,11 @@
 import React from 'react';
-import styled, { withTheme } from 'styled-components'
+import styled, { keyframes, withTheme } from 'styled-components'
 import { getRandomNumber } from '../data/azar'
 
+const appear = keyframes`
+    0% { opacity: 0; }
+    100% { opacity: 1;}
+`;
 
 const Frase = styled.h1`
     font-family: ${(props) => props.theme.fonts.display};
@@ -9,6 +13,7 @@ const Frase = styled.h1`
     color : ${(props) => props.theme.colors[getRandomNumber(0, 3)]};
     text-shadow: 7px 0 0 #000, -7px 0 0 #000, 0 7px 0 #000, 0 -7px 0 #000, 7px 7px #000, -7px -7px 0 #000, 7px -7px 0 #000, -7px 7px 0 #000;
     transition: all ease-in-out 1s;
+    animation: ${appear} 7s ease-in-out alternate initial;
 
     &:hover{
         color: #FFF;

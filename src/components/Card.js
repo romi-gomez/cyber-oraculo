@@ -3,8 +3,8 @@ import styled, { keyframes, withTheme } from 'styled-components'
 import { getRandomNumber } from '../data/azar';
 
 const float = keyframes`
-  0% { transform: translate3d(0,15px,0); }
-  100% { transform: translate3d(0,-15px,0); }
+    0% { transform: translate3d(0,15px,0); }
+    100% { transform: translate3d(0,-15px,0); }
 `;
 
 const CardContainer = styled.div`
