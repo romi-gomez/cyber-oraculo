@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cyber-oraculo/static/css/main.cc16fef9.chunk.css",
-    "main.js": "/cyber-oraculo/static/js/main.c335631d.chunk.js",
-    "main.js.map": "/cyber-oraculo/static/js/main.c335631d.chunk.js.map",
-    "runtime-main.js": "/cyber-oraculo/static/js/runtime-main.27aa7fab.js",
-    "runtime-main.js.map": "/cyber-oraculo/static/js/runtime-main.27aa7fab.js.map",
-    "static/js/2.84d9c3aa.chunk.js": "/cyber-oraculo/static/js/2.84d9c3aa.chunk.js",
-    "static/js/2.84d9c3aa.chunk.js.map": "/cyber-oraculo/static/js/2.84d9c3aa.chunk.js.map",
-    "static/js/3.d05b37a0.chunk.js": "/cyber-oraculo/static/js/3.d05b37a0.chunk.js",
-    "static/js/3.d05b37a0.chunk.js.map": "/cyber-oraculo/static/js/3.d05b37a0.chunk.js.map",
+    "main.css": "/cyber-oraculo/static/css/main.bb4c8c6d.chunk.css",
+    "main.js": "/cyber-oraculo/static/js/main.5635c716.chunk.js",
+    "main.js.map": "/cyber-oraculo/static/js/main.5635c716.chunk.js.map",
+    "runtime-main.js": "/cyber-oraculo/static/js/runtime-main.becacae5.js",
+    "runtime-main.js.map": "/cyber-oraculo/static/js/runtime-main.becacae5.js.map",
+    "static/js/2.fb1d6f16.chunk.js": "/cyber-oraculo/static/js/2.fb1d6f16.chunk.js",
+    "static/js/2.fb1d6f16.chunk.js.map": "/cyber-oraculo/static/js/2.fb1d6f16.chunk.js.map",
+    "static/js/3.9c0fbb3d.chunk.js": "/cyber-oraculo/static/js/3.9c0fbb3d.chunk.js",
+    "static/js/3.9c0fbb3d.chunk.js.map": "/cyber-oraculo/static/js/3.9c0fbb3d.chunk.js.map",
     "index.html": "/cyber-oraculo/index.html",
-    "static/css/main.cc16fef9.chunk.css.map": "/cyber-oraculo/static/css/main.cc16fef9.chunk.css.map",
-    "static/js/2.84d9c3aa.chunk.js.LICENSE.txt": "/cyber-oraculo/static/js/2.84d9c3aa.chunk.js.LICENSE.txt",
+    "static/css/main.bb4c8c6d.chunk.css.map": "/cyber-oraculo/static/css/main.bb4c8c6d.chunk.css.map",
+    "static/js/2.fb1d6f16.chunk.js.LICENSE.txt": "/cyber-oraculo/static/js/2.fb1d6f16.chunk.js.LICENSE.txt",
     "static/media/0.png": "/cyber-oraculo/static/media/0.49528e8a.png",
     "static/media/1.png": "/cyber-oraculo/static/media/1.d260b2d6.png",
     "static/media/10.png": "/cyber-oraculo/static/media/10.c1ec8f86.png",
@@ -36,9 +36,9 @@
     "static/media/9.png": "/cyber-oraculo/static/media/9.831d5eb0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.27aa7fab.js",
-    "static/js/2.84d9c3aa.chunk.js",
-    "static/css/main.cc16fef9.chunk.css",
-    "static/js/main.c335631d.chunk.js"
+    "static/js/runtime-main.becacae5.js",
+    "static/js/2.fb1d6f16.chunk.js",
+    "static/css/main.bb4c8c6d.chunk.css",
+    "static/js/main.5635c716.chunk.js"
   ]
 }
