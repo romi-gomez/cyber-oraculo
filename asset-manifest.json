@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cyber-oraculo/static/css/main.bb4c8c6d.chunk.css",
-    "main.js": "/cyber-oraculo/static/js/main.5635c716.chunk.js",
-    "main.js.map": "/cyber-oraculo/static/js/main.5635c716.chunk.js.map",
+    "main.js": "/cyber-oraculo/static/js/main.f0d8c155.chunk.js",
+    "main.js.map": "/cyber-oraculo/static/js/main.f0d8c155.chunk.js.map",
     "runtime-main.js": "/cyber-oraculo/static/js/runtime-main.becacae5.js",
     "runtime-main.js.map": "/cyber-oraculo/static/js/runtime-main.becacae5.js.map",
     "static/js/2.fb1d6f16.chunk.js": "/cyber-oraculo/static/js/2.fb1d6f16.chunk.js",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.becacae5.js",
     "static/js/2.fb1d6f16.chunk.js",
     "static/css/main.bb4c8c6d.chunk.css",
-    "static/js/main.5635c716.chunk.js"
+    "static/js/main.f0d8c155.chunk.js"
   ]
 }
